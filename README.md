@@ -12,8 +12,8 @@ This project deploys a WordPress site with MySQL backend on Kubernetes using per
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
-![WordPress](screenshots/wordpress.png)
+![Dashboard](screenshots/Screenshot1.png)
+![WordPress](screenshots/Screenshot2.png)
 
 ## How to Use
 
